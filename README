@@ -1,4 +1,4 @@
-###VCF2TSV-Workflow
+# VCF2TSV-Workflow
 
 The basic script simply uses the vcf2tsv software to make a tsv of 
 the vcf including all columns. It also makes another tsv with a line
