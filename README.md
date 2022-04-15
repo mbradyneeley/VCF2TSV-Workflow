@@ -1,4 +1,4 @@
-# VCF2TSV-Workflow
+# VCFSleuth-Workflow
 
 ### basicVCF2TSVConversion.sh
 Written in bash, the basic script simply uses the vcf2tsv software to make a tsv of 
